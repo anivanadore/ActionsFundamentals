@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-
+ -- TESTING WORKFLOW TRIGGERS --
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
